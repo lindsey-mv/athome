@@ -1,0 +1,13 @@
+{
+  "name": "athome",
+  "version": "1.0.0",
+  "description": "Automated Testing for AtHome.com",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
