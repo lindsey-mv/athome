@@ -9,5 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.31.1"
+  },
+  "dependencies": {
+    "fast-csv": "^4.3.6"
   }
 }
